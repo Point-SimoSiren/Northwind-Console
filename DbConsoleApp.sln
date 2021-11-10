@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbConsoleApp", "DbConsoleApp\DbConsoleApp.csproj", "{0A9AF27D-D2E8-4106-B7F6-25BCD9149004}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9AF27D-D2E8-4106-B7F6-25BCD9149004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9AF27D-D2E8-4106-B7F6-25BCD9149004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9AF27D-D2E8-4106-B7F6-25BCD9149004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9AF27D-D2E8-4106-B7F6-25BCD9149004}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C207B29-BBE1-4E29-8939-8B11A1F6E7BF}
+	EndGlobalSection
+EndGlobal
